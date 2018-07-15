@@ -49,6 +49,7 @@ document.onkeyup = function (event) {
     
 
     var html =
+
         "<p>Wins: " + wins + "</p>" +
         "<p>Losses: " + losses + "</p>" +
         "<p>Guesses left: " + guessesLeft+ "</p>" +
